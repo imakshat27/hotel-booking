@@ -56,7 +56,7 @@ function Selector() {
                     onClick={incrementRooms}
                     className="w-8 h-8 bg-gray-700 rounded hover:bg-gray-800"
                   >
-                    +
+                  +
                   </button>
                 </div>
               </div>
@@ -74,7 +74,7 @@ function Selector() {
                     onClick={incrementAdults}
                     className="w-8 h-8 bg-gray-700 rounded hover:bg-gray-800"
                   >
-                    +
+                  +
                   </button>
                 </div>
               </div>
@@ -92,13 +92,13 @@ function Selector() {
                     onClick={incrementChildren}
                     className="w-8 h-8 bg-gray-700 rounded hover:bg-gray-800"
                   >
-                    +
+                  +
                   </button>
                 </div>
               </div>
             </div>
             <button className="w-full mt-4 p-2 bg-primary text-primary-foreground rounded-lg">
-              Search Hotels
+            Search Hotels
             </button>
           </div>
         </div>

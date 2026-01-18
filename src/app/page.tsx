@@ -50,7 +50,7 @@ export default async function Home() {
 <h2 className="text-2xl font-bold m-10">Featured Hotels</h2>
 <div className="m-10 flex gap-8 flex-wrap justify-center">
 <TiltedCard
-  imageSrc="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
+  imageSrc="https://images.pexels.com/photos/34631242/pexels-photo-34631242.jpeg"
   altText="Kendrick Lamar - GNX Album Cover"
   captionText="Kendrick Lamar - GNX"
   containerHeight="300px"
@@ -63,13 +63,13 @@ export default async function Home() {
   showTooltip={true}
   displayOverlayContent={true}
   overlayContent={
-    <p className="tilted-card-demo-text">
-      Kendrick Lamar - GNX
+    <p className="bg-accent rounded-3xl p-3 tilted-card-demo-text">
+      Pinecrest Inn - Cozy Retreat
     </p>
   }
 />
 <TiltedCard
-  imageSrc="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
+  imageSrc="https://images.pexels.com/photos/19869225/pexels-photo-19869225.jpeg"
   altText="Kendrick Lamar - GNX Album Cover"
   captionText="Kendrick Lamar - GNX"
   containerHeight="300px"
@@ -82,13 +82,13 @@ export default async function Home() {
   showTooltip={true}
   displayOverlayContent={true}
   overlayContent={
-    <p className="tilted-card-demo-text">
-      Kendrick Lamar - GNX
+    <p className="bg-accent rounded-3xl p-3 tilted-card-demo-text">
+      The Elite Hotel - Sweden
     </p>
   }
 />
 <TiltedCard
-  imageSrc="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
+  imageSrc="https://images.pexels.com/photos/13722872/pexels-photo-13722872.jpeg"
   altText="Kendrick Lamar - GNX Album Cover"
   captionText="Kendrick Lamar - GNX"
   containerHeight="300px"
@@ -101,13 +101,13 @@ export default async function Home() {
   showTooltip={true}
   displayOverlayContent={true}
   overlayContent={
-    <p className="tilted-card-demo-text">
-      Kendrick Lamar - GNX
+    <p className="bg-accent rounded-3xl p-3 tilted-card-demo-text">
+      Hotel Grandeur - Luxury Stay
     </p>
   }
 />
 <TiltedCard
-  imageSrc="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
+  imageSrc="https://images.pexels.com/photos/14021931/pexels-photo-14021931.jpeg"
   altText="Kendrick Lamar - GNX Album Cover"
   captionText="Kendrick Lamar - GNX"
   containerHeight="300px"
@@ -120,13 +120,13 @@ export default async function Home() {
   showTooltip={true}
   displayOverlayContent={true}
   overlayContent={
-    <p className="tilted-card-demo-text">
-      Kendrick Lamar - GNX
+    <p className="bg-accent rounded-3xl p-3 tilted-card-demo-text">
+      Radisson Blu - Modern Comfort
     </p>
   }
 />
 <TiltedCard
-  imageSrc="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
+  imageSrc="https://images.pexels.com/photos/7942132/pexels-photo-7942132.jpeg"
   altText="Kendrick Lamar - GNX Album Cover"
   captionText="Kendrick Lamar - GNX"
   containerHeight="300px"
@@ -139,8 +139,8 @@ export default async function Home() {
   showTooltip={true}
   displayOverlayContent={true}
   overlayContent={
-    <p className="tilted-card-demo-text">
-      Kendrick Lamar - GNX
+    <p className="bg-accent rounded-3xl p-3 tilted-card-demo-text">
+      The Meadowbrook - France
     </p>
   }
 />
