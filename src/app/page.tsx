@@ -1,3 +1,4 @@
+import AdCarousel from "@/components/ui/AdCarousel";
 import {
   NavigationMenu,
   NavigationMenuContent,
@@ -38,7 +39,10 @@ export default async function Home() {
     </div>
   </div>
 </div>
+<div className="flex">
 <Selector/>
+<AdCarousel/>
+</div>
     </>
   );
 }
