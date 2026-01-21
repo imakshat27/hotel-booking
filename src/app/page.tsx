@@ -48,7 +48,7 @@ export default async function Home() {
 <AdCarousel/>
 </div>
 <h2 className="text-2xl font-bold m-10">Featured Hotels</h2>
-<div className="m-10 flex gap-8 flex-wrap justify-center">
+<div className="m-10 flex gap-7 flex-wrap justify-center">
 <TiltedCard
   imageSrc="https://images.pexels.com/photos/34631242/pexels-photo-34631242.jpeg"
   altText="Pinecrest Inn - Cozy Retreat"
