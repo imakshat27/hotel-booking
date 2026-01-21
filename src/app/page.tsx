@@ -51,8 +51,8 @@ export default async function Home() {
 <div className="m-10 flex gap-8 flex-wrap justify-center">
 <TiltedCard
   imageSrc="https://images.pexels.com/photos/34631242/pexels-photo-34631242.jpeg"
-  altText="Kendrick Lamar - GNX Album Cover"
-  captionText="Kendrick Lamar - GNX"
+  altText="Pinecrest Inn - Cozy Retreat"
+  captionText="Pinecrest Inn - Cozy Retreat"
   containerHeight="300px"
   containerWidth="300px"
   imageHeight="300px"
@@ -70,8 +70,8 @@ export default async function Home() {
 />
 <TiltedCard
   imageSrc="https://images.pexels.com/photos/19869225/pexels-photo-19869225.jpeg"
-  altText="Kendrick Lamar - GNX Album Cover"
-  captionText="Kendrick Lamar - GNX"
+  altText="The Elite Hotel - Sweden"
+  captionText="The Elite Hotel - Sweden"
   containerHeight="300px"
   containerWidth="300px"
   imageHeight="300px"
@@ -89,8 +89,8 @@ export default async function Home() {
 />
 <TiltedCard
   imageSrc="https://images.pexels.com/photos/13722872/pexels-photo-13722872.jpeg"
-  altText="Kendrick Lamar - GNX Album Cover"
-  captionText="Kendrick Lamar - GNX"
+  altText="Hotel Grandeur - Luxury Stay"
+  captionText="Hotel Grandeur - Luxury Stay"
   containerHeight="300px"
   containerWidth="300px"
   imageHeight="300px"
@@ -108,8 +108,8 @@ export default async function Home() {
 />
 <TiltedCard
   imageSrc="https://images.pexels.com/photos/14021931/pexels-photo-14021931.jpeg"
-  altText="Kendrick Lamar - GNX Album Cover"
-  captionText="Kendrick Lamar - GNX"
+  altText="Radisson Blu - Modern Comfort"
+  captionText="Radisson Blu - Modern Comfort"
   containerHeight="300px"
   containerWidth="300px"
   imageHeight="300px"
@@ -127,8 +127,8 @@ export default async function Home() {
 />
 <TiltedCard
   imageSrc="https://images.pexels.com/photos/7942132/pexels-photo-7942132.jpeg"
-  altText="Kendrick Lamar - GNX Album Cover"
-  captionText="Kendrick Lamar - GNX"
+  altText="The Meadowbrook - France"
+  captionText="The Meadowbrook - France"
   containerHeight="300px"
   containerWidth="300px"
   imageHeight="300px"
